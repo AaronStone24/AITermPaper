@@ -1,4 +1,4 @@
--e git+https://github.com/dandrino/terrain-erosion-3-ways.git@master#egg=terrain_erosion_3_ways
+#-e git+https://github.com/dandrino/terrain-erosion-3-ways.git@master#egg=terrain_erosion_3_ways
 absl-py==1.0.0
 affine==2.3.1
 astor==0.8.1
